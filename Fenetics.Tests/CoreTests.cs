@@ -5,12 +5,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace fenetics.Tests
 {
   [TestClass]
-  public class NamesTests
+  public class CoreTests
   {
 
     private fenetic _fenetic;
 
-    public NamesTests()
+    public CoreTests()
     {
     }
 
