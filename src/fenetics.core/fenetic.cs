@@ -35,7 +35,7 @@ namespace fenetics.core
     private string CleanWord()
     {
       var result = Word;
-      var special = " ~`!@#$%^&*()_-+=|\\}]{[':;?/>.<,\"";
+      var special = "~`!@#$%^&*()_-+=|\\}]{[':;?/>.<,\"";
       for (int i = 0; i < special.Length; i++)
       {
         result = result.Replace(special.Substring(i, 1), "");
@@ -43,9 +43,9 @@ namespace fenetics.core
       return result.ToUpper();
     }
 
-    private static readonly string[] unitsMap = new[] { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" };
-    private static readonly string[] tensMap = new[] { "zero", "ten", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
-    private static Dictionary<string, long> numberTable =
+    private readonly string[] unitsMap = new[] { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" };
+    private readonly string[] tensMap = new[] { "zero", "ten", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety" };
+    private Dictionary<string, long> numberTable =
     new Dictionary<string, long>
         {{"zero",0},{"one",1},{"two",2},{"three",3},{"four",4},
         {"five",5},{"six",6},{"seven",7},{"eight",8},{"nine",9},
@@ -58,7 +58,7 @@ namespace fenetics.core
         {"trillion",1000000000000},{"quadrillion",1000000000000000},
         {"quintillion",1000000000000000000}};
 
-    public static string NumberToWords(long number)
+    public string NumberToWords(long number)
     {
       if (number == 0)
         return "zero";
@@ -125,10 +125,10 @@ namespace fenetics.core
         }
       }
 
-      return words.Replace("  ", " ");
+      return words.Replace("  ", " ").Trim();
     }
 
-    public static long ToLong(string numberString)
+    public long ToLong(string numberString)
     {
       var numbers = Regex.Matches(numberString, @"\w+").Cast<Match>()
            .Select(m => m.Value.ToLowerInvariant())

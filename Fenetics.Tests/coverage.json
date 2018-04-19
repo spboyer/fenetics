@@ -1,0 +1,518 @@
+{
+ "C:\\Users\\shboyer\\github\\Fenetics\\Fenetics.Tests\\bin\\Debug\\fenetics.core.dll": {
+  "C:\\Users\\shboyer\\github\\Fenetics\\src\\fenetics.core\\fenetic.cs": {
+   "fenetics.core.fenetic": {
+    "System.String fenetics.core.fenetic::get_Word()": {
+     "10": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String[] fenetics.core.fenetic::get_Soundex()": {
+     "11": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String[] fenetics.core.fenetic::get_Metaphone()": {
+     "12": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String[] fenetics.core.fenetic::get_DoubleMetaphone()": {
+     "13": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String[] fenetics.core.fenetic::get_Caverphone()": {
+     "14": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String[] fenetics.core.fenetic::get_MatchRatingApproach()": {
+     "15": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String[] fenetics.core.fenetic::get_Variations()": {
+     "16": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String fenetics.core.fenetic::get_Cleansed()": {
+     "17": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Void fenetics.core.fenetic::.ctor(System.String)": {
+     "19": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "20": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "21": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "22": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "23": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "46": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "47": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "48": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "49": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "50": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "51": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "52": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "53": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "54": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "55": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "56": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "57": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "58": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "59": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Void fenetics.core.fenetic::GetKeys()": {
+     "26": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "27": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "28": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "29": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "30": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "31": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "32": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "33": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String fenetics.core.fenetic::CleanWord()": {
+     "36": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "37": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "38": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "39": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "40": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "41": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "42": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "43": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "44": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.String fenetics.core.fenetic::NumberToWords(System.Int64)": {
+     "62": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "63": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "64": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "66": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "67": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "69": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "71": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "72": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "73": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "74": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "75": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "77": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "78": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "79": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "80": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "81": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "83": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "84": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "85": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "86": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "87": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "89": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "90": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "91": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "92": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "93": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "95": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "96": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "97": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "98": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "99": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "101": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "102": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "103": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "104": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "105": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "107": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "108": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "109": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "110": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "111": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "113": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "114": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "115": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "116": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "118": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "119": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "121": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "122": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "123": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "124": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "125": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "126": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "128": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "129": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    },
+    "System.Int64 fenetics.core.fenetic::ToLong(System.String)": {
+     "132": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "133": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "134": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "135": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "136": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "137": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "138": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "139": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "140": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "141": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "142": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "143": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "144": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "145": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "146": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "147": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "148": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "149": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "150": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "151": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "152": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     },
+     "153": {
+      "Hits": 0,
+      "IsBranchPoint": false
+     }
+    }
+   }
+  }
+ }
+}
