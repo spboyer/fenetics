@@ -59,8 +59,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\src\fenetics.core\fenetics.core.csproj">
-      <Project>{a96cc1df-bf08-480e-bb1f-f53344944a6a}</Project>
+    <ProjectReference Include="..\fenetics.core\fenetics.core.csproj">
+      <Project>{120727a3-e698-4a3b-85d9-ea8da67a325e}</Project>
       <Name>fenetics.core</Name>
     </ProjectReference>
   </ItemGroup>
